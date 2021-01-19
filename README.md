@@ -1,8 +1,4 @@
 ### Hi there 👋
-
-<!--
-**unko-chan/unko-chan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 My name is Kevin and I love learning new things about the science behind how computers work!
 
 - 🔭 I’m currently working on ...
@@ -13,7 +9,7 @@ My name is Kevin and I love learning new things about the science behind how com
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 [![Kevin's github stats](https://github-readme-stats.vercel.app/api?username=unko-chan)](https://github.com/anuraghazra/github-readme-stats)
 
